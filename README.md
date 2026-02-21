@@ -1,2 +1,4 @@
-# miyajisWriteup
-Writeupを記載
+# Jangow_Hacking
+１．相手のIPを特定
+　　今回はターゲットマシン起動時に記載されているため省略（192,168.56.118）
+２．
